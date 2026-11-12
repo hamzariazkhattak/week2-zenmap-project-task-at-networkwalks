@@ -1,78 +1,122 @@
-# Network Scanning & Network Mapping Using Zenmap
+# 🛡️ Zenmap Network Scanning & Network Mapping
 
-**Organization:** NETWORKWALKS  
-**Internship:** Cybersecurity Internship  
-**Batch:** B084  
-**Lead Instructor:** WAQAS KARIM, CCIE  
-**Platform:** Kali Linux  
-**Tool:** Zenmap (Nmap GUI)
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tool-Zenmap%20%7C%20Nmap-0078D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
+</p>
 
-## Project Overview
+<p align="center">
+  <b>NETWORKWALKS | Cybersecurity Internship | Batch B084</b>
+  <br/>
+  Practical Learning • Network Reconnaissance • Network Security
+</p>
 
-This project focuses on understanding network scanning, host discovery, network mapping, and information gathering using Zenmap, the graphical interface for Nmap.
+---
 
-The practical exercises were performed in my own safe and authorized network environment strictly for educational purposes as part of my cybersecurity learning journey at NETWORKWALKS.
+## 📌 Project Overview
 
-## Objectives
+This project focuses on practical network scanning and network mapping using **Zenmap (Nmap GUI)** in Kali Linux.
+
+As part of my Cybersecurity Internship at **NETWORKWALKS**, I explored different scanning profiles, analyzed host information, and visualized network topology to understand how network reconnaissance works in a practical environment.
+
+All activities were performed within my own safe and authorized network environment, strictly for educational purposes.
+
+## 🎯 Learning Objectives
 
 - Understand network scanning techniques.
-- Explore different Zenmap scan profiles.
-- Identify active hosts in an authorized network.
+- Explore different Zenmap scanning profiles.
+- Identify hosts within an authorized network.
 - Analyze host information and scan results.
-- Visualize network topology.
+- Understand network topology visualization.
 - Develop practical network reconnaissance skills.
 
-## Practical Tasks Performed
+## 🧪 Practical Tasks Performed
 
-### 1. Quick Scan
-Performed a Quick Scan to explore basic network scanning and identify available hosts and commonly detected services.
+| # | Task | Description | Status |
+|---|---|---|---|
+| 01 | Quick Scan | Basic host and service discovery | ✅ Completed |
+| 02 | Intense Scan | Detailed network scanning | ✅ Completed |
+| 03 | Network Topology | Visual network mapping | ✅ Completed |
+| 04 | Host Information | Host details and scan analysis | ✅ Completed |
 
-### 2. Intense Scan
-Explored the Intense Scan profile to understand more detailed network scanning and service information.
+## 🛠️ Tools & Technologies
 
-### 3. Network Topology
-Used Zenmap's Topology feature to visualize discovered hosts and understand the network structure.
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zenmap-Nmap_GUI-0078D4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Nmap-Network_Scanner-4682B4?style=flat-square" />
+</p>
 
-### 4. Host Information
-Explored Host Details to understand available information about discovered hosts, including their addresses and scan results.
+## 📸 Practical Screenshots
 
-## Tools & Technologies
+### 01. Quick Scan
+Basic network scanning to explore discovered hosts and available services.
 
-- Kali Linux
-- Zenmap
-- Nmap
-- Network Scanning
-- Network Reconnaissance
+![Quick Scan](screenshots/quick-scan.png)
 
-## Learning Outcomes
+### 02. Intense Scan
+Explored detailed scanning options and analyzed available scan results.
 
-- Gained practical experience with Zenmap.
-- Understood Quick Scan and Intense Scan profiles.
-- Learned how to visualize network topology.
-- Explored host information and scan results.
-- Improved understanding of network reconnaissance techniques.
+![Intense Scan](screenshots/intense-scan.png)
 
-## Safety & Ethical Considerations
+### 03. Network Topology
+Visualized discovered network hosts using Zenmap's Topology feature.
 
-**All scanning activities were conducted only within my own safe and authorized network environment, strictly for educational purposes.**
+![Network Topology](screenshots/network-topology.png)
 
-No unauthorized systems or external networks were targeted.
+### 04. Host Information
+Explored host details and reviewed the information available from the scan.
 
-## Screenshots
+![Host Information](screenshots/host-information.png)
 
-Add your practical screenshots below:
+## 📚 Key Learning Outcomes
 
-- Quick Scan Results
-- Intense Scan Results
-- Network Topology
-- Host Information
+Through this practical exercise, I gained experience in:
 
-## Conclusion
+- Network discovery and scanning.
+- Understanding Quick Scan and Intense Scan profiles.
+- Visualizing network topology.
+- Exploring host information.
+- Understanding Nmap-based reconnaissance workflows.
+- Practicing responsible and authorized security testing.
 
-Successfully completed this practical Zenmap task as part of my cybersecurity internship at NETWORKWALKS.
+## 🔐 Safety & Ethical Considerations
 
-This exercise strengthened my understanding of network scanning, host discovery, and network mapping using Nmap and Zenmap.
+> **Important:** All scanning activities were performed only within my own safe and authorized network environment for educational purposes.
 
-**Learning by practicing. Building cybersecurity skills step by step!**
+- No unauthorized systems were targeted.
+- No external networks were scanned without permission.
+- All activities were conducted for cybersecurity learning and practical skill development.
 
-#CyberSecurity #Zenmap #Nmap #NETWORKWALKS #KaliLinux
+## 🎓 Internship Information
+
+| Detail | Information |
+|---|---|
+| Organization | NETWORKWALKS |
+| Program | Cybersecurity Internship |
+| Batch | B084 |
+| Lead Instructor | WAQAS KARIM, CCIE |
+| Operating System | Kali Linux |
+| Practical Tool | Zenmap / Nmap |
+| Project Status | Completed |
+
+## 🏁 Conclusion
+
+Successfully completed this hands-on Zenmap practical task at NETWORKWALKS.
+
+This exercise improved my understanding of network scanning, host discovery, network topology, and information gathering using Zenmap.
+
+**Learning by Doing | Building Skills | Securing Networks** 🚀
+
+---
+
+<p align="center">
+  <b>Alhamdulillah! Another milestone in my Cybersecurity Journey.</b>
+  <br/><br/>
+  ⭐ If you find this project useful, feel free to explore the repository.
+</p>
+
+<p align="center">
+  <b>NETWORKWALKS | Cybersecurity Internship | Batch B084</b>
+</p>
